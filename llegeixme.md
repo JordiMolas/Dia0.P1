@@ -1,0 +1,3 @@
+
+Hola a tots !!!
+Aquest és el fitxer de la primera pràctica...
